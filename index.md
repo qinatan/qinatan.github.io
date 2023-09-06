@@ -11,7 +11,9 @@ I am currently pursuing a Master of Science degree in Computer Science (without 
 
 ## About My Advisor
 
-Advisor info goes here.
+Dr. Gabe Fierro is an assistant professor of Computer Science at Colorado School of Mines with a joint appointment at the National Renewable Energy Laboratory. He works at the intersection of databases, systems, information modeling, data science, the built environment aand the Internet of Things. 
+
+His research interests include (1) the design and implementation of high-performance databases, including graph and linked-data databases and timeseries databases; (2) IoT platforms that incorporate edge computing and cloud resources; (3) issues of digitization and data management in the built environment; (4) novel datasets or applications of data that motivate new data management techniques and abstractions.
 
 ## About My Project
 
