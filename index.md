@@ -22,7 +22,7 @@ website: https://home.gtf.fyi/
 
 ## About My Project
 
-Project description goes here.
+My project involves the optimization of database parameters for a set of queries on a Parquet dataset using a deep reinforcement learning model. 
 
 [My Final Report](files/finalreport.pdf)
 
