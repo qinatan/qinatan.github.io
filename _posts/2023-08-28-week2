@@ -1,0 +1,20 @@
+In the context of data formats, ORC stands for "Optimized Row Columnar." It's a file format used for storing structured data, particularly in the context of big data processing and analytics. ORC was developed as an open-source project by the Apache Software Foundation and is commonly used in the Hadoop and Apache Hive ecosystems.
+
+ORC is designed to be highly efficient for read-heavy workloads, especially for data analytics and queries, by using a combination of row-based and columnar storage techniques. It provides benefits like improved compression, better predicate pushdown, and faster read performance compared to some other file formats used in big data environments.
+
+Key features of ORC include:
+
+1. **Columnar Storage:** ORC stores data in a columnar format, which allows for better compression and improved performance for queries that involve selecting specific columns. This is especially advantageous for analytics workloads.
+
+2. **Lightweight Compression:** ORC uses lightweight compression techniques, which further reduces storage space requirements and improves query performance.
+
+3. **Predicate Pushdown:** ORC supports predicate pushdown, which means that query filters can be pushed down to the storage layer, reducing the amount of data that needs to be read during queries.
+
+4. **Schema Evolution:** ORC supports schema evolution, allowing you to add or modify columns in your data without requiring a full rewrite of the data.
+
+ORC is commonly used with tools like Apache Hive, Apache Spark, and Apache Pig for data processing and analytics in big data environments. It's one of several file formats available in these ecosystems, with other options like Parquet and Avro.
+
+In summary, ORC (Optimized Row Columnar) is a data format designed for efficient storage and processing of structured data, particularly in big data and data analytics applications. It leverages columnar storage and other optimizations to improve query performance and reduce storage space.
+
+
+
